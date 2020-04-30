@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Demo My Second App</string>
+    <string name="message">Welcome to Android!</string>
+    <string name="text">Large Text</string>
+
+    <string name="nama">Name:</string>
+    <string name="passw">Password:</string>
+    <string name="log">LOGIN</string>
+    <string name="canc">CANCEL</string>
+
+    <string name="reg_t">Registration Form</string>
+    <string name="welc">Welcome to Advanture Learning Club!</string>
+    <string name="name">Full Name</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="gen">Gender</string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="stud_id">Student ID</string>
+    <string name="sch">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="reg_b">Register</string>
+</resources>
